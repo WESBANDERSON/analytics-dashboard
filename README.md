@@ -2,6 +2,18 @@
 
 A professional, modern analytics dashboard built with React, TypeScript, Vite, and ShadCN/UI components. This dashboard features beautiful charts, real-time metrics, and a responsive design perfect for business analytics.
 
+## 🚀 Quick Start for Developers
+
+### Clone and Run
+```bash
+git clone https://github.com/WESBANDERSON/analytics-dashboard.git
+cd analytics-dashboard
+npm install
+npm run dev
+```
+
+**Dashboard URL:** http://localhost:5173
+
 ## 🚀 Features
 
 - **Modern UI**: Built with ShadCN/UI and Radix UI primitives
